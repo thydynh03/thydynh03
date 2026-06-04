@@ -2,7 +2,7 @@
 
 # Xin chào! 👋 I'm Nguyễn Đình Thi
 
-<img height="400" width="700" alt="Anime Wallpaper" src="https://i.pinimg.com/videos/thumbnails/originals/a6/f7/d4/a6f7d438397c1e65cf78a33d4bd8050e.0000000.jpg">
+<img height="350" width="700" alt="Anime Banner" src="./assets/banner.jpg">
 
 </div>
 
