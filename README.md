@@ -2,7 +2,7 @@
 
 # Xin chào! 👋 I'm Nguyễn Đình Thi
 
-<img height="300" width="700" alt="Coding GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aca50b31d62f7b5.gif">
+<img height="400" width="700" alt="Anime Wallpaper" src="https://i.pinimg.com/videos/thumbnails/originals/a6/f7/d4/a6f7d438397c1e65cf78a33d4bd8050e.0000000.jpg">
 
 </div>
 
