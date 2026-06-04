@@ -2,7 +2,7 @@
 
 # Xin chào! 👋 I'm Nguyễn Đình Thi
 
-<img height="350" width="700" alt="Anime Banner" src="./assets/banner.jpg">
+<img height="350" width="700" alt="Naruto Eyes GIF" src="./assets/uzumaki naruto eyes GIF.gif">
 
 </div>
 
